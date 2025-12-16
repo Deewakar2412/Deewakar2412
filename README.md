@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+![MasterHead]([https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg](https://freeimage.host/i/fcHsgLl))
 
 <h1 align="center">Hi 👋, I'm Deewakar Kumar</h1>
 
