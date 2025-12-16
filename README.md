@@ -1,4 +1,4 @@
-<a href="https://ibb.co/6c6j8q1N"><img src="https://i.ibb.co/BH80GYrw/Gemini-Generated-Image-f92tc4f92tc4f92t.png" alt="Gemini-Generated-Image-f92tc4f92tc4f92t" border="0"></a>
+<a href="https://ibb.co/KpYpq6Cp"><img src="https://i.ibb.co/wFTFWyDF/Gemini-Generated-Image-jx25kcjx25kcjx25-1-3.png" alt="Gemini-Generated-Image-jx25kcjx25kcjx25-1-3" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Deewakar Kumar</h1>
 
