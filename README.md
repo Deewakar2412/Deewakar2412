@@ -1,4 +1,9 @@
-<a href="https://freeimage.host/i/fcJ7mEg"><img src="https://iili.io/fcJ7mEg.md.png" alt="fcJ7mEg.md.png" border="0"></a>
+<p align="center">
+  <a href="https://freeimage.host/i/fcJ7mEg">
+    <img src="https://iili.io/fcJ7mEg.md.png" alt="fcJ7mEg.md.png">
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Deewakar Kumar</h1>
 
