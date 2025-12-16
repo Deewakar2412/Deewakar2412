@@ -19,15 +19,11 @@ but about telling a clear business story through data. Welcome to my GitHub!
 - 📫 How to reach me **deewakar2412@gmail.com**
 - ⚡ Fun fact **I enjoy turning messy datasets into clean, meaningful insights**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/deewakarkumar2412/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:deewakar2412@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-</a>
-</p>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deewakarkumar2412/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deewakar2412@gmail.com)
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
